@@ -1,9 +1,11 @@
 ### :wave: Hello there! My name is Shomari Roberts.
-I am a Full Stack Developer from New York City, excited to develop functional front-end applications.  
-My background as a UI Designer deepens my perspective for working with best practices while paying attention to details.  
-I have experience working with JavaScript, React,  Redux, Gatsby, Node, Express.
+I am a Full Stack Developer from New York City, excited about developing pixel perfect, functional front-end applications. My background as a UI designer combined, with my experience in web development, broadens my perspective and understanding for both mediums, respectively. I have experience working with JavaScript, React, Redux, Gatsby, Node.js, Express, and SQL.
 
 #### ⚡ Currently learning Python and TypeScript.
+
+
+
+### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slroberts)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **slroberts/slroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
