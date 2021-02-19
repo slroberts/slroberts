@@ -1,7 +1,9 @@
 ### :wave: Hello there! My name is Shomari Roberts.
 I am a Full Stack Developer from New York City, excited about developing pixel perfect, functional front-end applications. My background as a UI designer combined, with my experience in web development, broadens my perspective and understanding for both mediums, respectively. I have experience working with JavaScript, React, Redux, Gatsby, TypeScript, Node.js, Express, and SQL.
 
-#### ⚡ Currently learning Python.
+- 🌱 Currently learning Python.
+- 🔭 I’m currently working on [Cityspire](https://github.com/Lambda-School-Labs/LabsPT15-cityspire-g-fe) labs project.
+- ⚡ Fun fact: I am also an uban gardener.
 
 
 
