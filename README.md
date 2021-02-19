@@ -3,7 +3,7 @@ I am a Full Stack Developer from New York City, excited about developing pixel p
 
 - 🌱 Currently learning Python.
 - 🔭 I’m currently working on [Cityspire](https://github.com/Lambda-School-Labs/LabsPT15-cityspire-g-fe) labs project.
-- ⚡ Fun fact: I am also an uban gardener.
+- ⚡ Fun fact: In my spare time I grow plants with Eternal Life Community Garden.
 
 
 
