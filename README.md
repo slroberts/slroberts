@@ -2,7 +2,7 @@
 I am a Full Stack Developer from New York City, excited about developing pixel perfect, functional front-end applications. My background in UI design combined with my experience in web development deepens my perspective and understanding for both mediums, respectively. The focus on front-end development facilitates my ability to produce user-centered solutions for numerous problems. I have experience working with JavaScript, React, Redux, Gatsby, TypeScript, Node.js, Express, and SQL.
 
 - 🌱 Currently learning Python.
-- 🔭 I’m currently working on [Cityspire](https://github.com/Lambda-School-Labs/LabsPT15-cityspire-g-fe) labs project.
+- 🔭 I’m currently working on [Cityspire](https://github.com/slroberts/Cityspire) labs project.
 - ⚡ Fun fact: In my spare time I grow plants with Eternal Life Community Garden.
 - 🌐 Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
 
