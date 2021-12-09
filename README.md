@@ -1,7 +1,7 @@
 ### :wave: Hello there! My name is Shomari.
 I'm a Full Stack Developer from New York City, excited about developing pixel perfect, functional front-end applications. My background in UI design combined with my experience in web development deepens my perspective and understanding for both mediums, respectively. The focus on front-end development facilitates my ability to produce user-centered solutions. I have experience working with JavaScript, React, Redux, Gatsby, TypeScript, Node.js, Express, and SQL.
 
-- 🔭  I’m currently working on [Invoicing Payment Reminder](https://github.com/slroberts/invoicing-payment-reminder-FE) side project.
+- 🔭  I’m currently working on Invoicing Payment Reminder [Front-end](https://github.com/slroberts/invoicing-payment-reminder-FE) and [Back-end](https://github.com/slroberts/invoicing-payment-reminder-BE) side project.
 - ⚡  Fun fact: In my spare time I run and manage Eternal Life Community Garden with my family.
 - 🌐  Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
 - 🌱  Currently learning Python. 🤯
