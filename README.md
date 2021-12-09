@@ -4,7 +4,7 @@ I am a Full Stack Developer from New York City, excited about developing pixel p
 - 🔭 I’m currently working on [Invoicing Payment Reminder](https://github.com/slroberts/invoicing-payment-reminder-FE).
 - ⚡ Fun fact: In my spare time I run and manage Eternal Life Community Garden with my family.
 - 🌐 Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
-- - ⚡ Currently learning Python. 🤯
+- ⚡ Currently learning Python. 🤯
 
 
 
