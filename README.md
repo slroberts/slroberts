@@ -1,10 +1,11 @@
-### :wave: Hello there! My name is Shomari.
-I'm a Full Stack Developer from New York City, excited about developing pixel perfect, functional front-end applications. My background in UI design combined with my experience in web development deepens my perspective and understanding for both mediums, respectively. The focus on front-end development facilitates my ability to produce user-centered solutions. I have experience working with JavaScript, React, Redux, Gatsby, TypeScript, Node.js, Express, and SQL.
+### :wave: Hello! My name is Shomari Roberts, a Front-end Engineer from New York City excited about developing functional front-end websites and applications.
+My background as a UI designer greatly piqued my interest in web development. I saw how the websites I designed were made functional. With that spark, I started to learn and build websites using HTML, CSS, and JavaScript to test the waters of web development, and I liked it even more! After that, I immersed myself in Bloom Institute of Technology's (FKA Lambda School) full-stack web development Bootcamp program to craft my skills. While attending the Bootcamp, I utilized industry coding practices such as Git workflow, while I gained meaningful experience building many projects with JavaScript, React, Redux, Node.js, Express, and SQL.
+Since I completed the Bootcamp, I have worked on enhancing my front-end developer skills by working with core JavaScript concepts and learning new frameworks such as Next.js and Gatsby.
+
 
 - 🔭  I’m currently working on Invoicing Payment Reminder [Front-end](https://github.com/slroberts/invoicing-payment-reminder-FE) and [Back-end](https://github.com/slroberts/invoicing-payment-reminder-BE) side project.
 - ⚡  Fun fact: In my spare time I run and manage Eternal Life Community Garden with my family.
 - 🌐  Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
-- 🌱  Currently learning Python. 🤯
 
 
 
