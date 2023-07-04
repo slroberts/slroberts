@@ -10,9 +10,8 @@ Since I completed the Bootcamp, I have been working towards enhancing my front-e
 
 
 
-### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slroberts)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slroberts)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **slroberts/slroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
