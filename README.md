@@ -1,8 +1,12 @@
 ### My name is Shomari Roberts, a Front-end Engineer from New York City excited about developing functional websites and web applications with Javascript using React and Next.js.
 
-My background as a UI designer greatly piqued my interest in web development. I saw how the websites I designed were made functional. With that spark, I started to learn and build websites using HTML, CSS, and JavaScript to test the waters of web development, and I liked it even more! After that, I immersed myself in Bloom Institute of Technology's (FKA Lambda School) Full-stack Web Development Bootcamp program to craft my skills. While attending the Bootcamp, I utilized industry coding practices such as Git workflow, while I gained meaningful experience building many projects with JavaScript, React, Redux, Node.js, Express, and SQL.
+My journey into web development began as a UI designer, where I witnessed the transformation of my designs into functional websites. This sparked my interest and drove me to learn HTML, CSS, and JavaScript. I quickly realized my love for web development and further honed my skills by attending the Full-stack Web Development Bootcamp program at Bloom Institute of Technology (formerly Lambda School).
 
-Since I completed the Bootcamp, I have been working towards enhancing my front-end skills by adding Next.js, Gatsby and TypeScript to my toolset.
+During the Bootcamp, I embraced industry-standard coding practices, including Git workflow, and gained valuable experience building numerous projects with JavaScript, React, Redux, Node.js, Express, and SQL.
+
+Since completing the Bootcamp, I have been actively expanding my front-end skills. I have added Next.js, Gatsby, and TypeScript to my toolkit, allowing me to deliver even more robust and performant web experiences.
+
+I am passionate about creating elegant and user-friendly interfaces, combining my design background with my technical skills. I am excited to collaborate on innovative projects and contribute to the success of web development initiatives.
 
 
 - ⚡  I’m currently working on Invoicing Payment Reminder [Invoicing Payment Reminder](https://github.com/slroberts/next-invoicing-payment-reminder).
