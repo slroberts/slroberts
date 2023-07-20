@@ -9,7 +9,7 @@ Since completing the Bootcamp, I have been actively expanding my front-end skill
 I am passionate about creating elegant and user-friendly interfaces, combining my design background with my technical skills. I am excited to collaborate on innovative projects and contribute to the success of web development initiatives.
 
 
-- ⚡  I’m currently working on Invoicing Payment Reminder [Invoicing Payment Reminder](https://github.com/slroberts/next-invoicing-payment-reminder-v2).
+- ⚡  I’m currently working on [Invoicing Payment Reminder](https://github.com/slroberts/next-invoicing-payment-reminder-v2).
 - 🌐  Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
 
 
