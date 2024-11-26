@@ -9,11 +9,6 @@ Since completing the Bootcamp, I have been actively expanding my front-end skill
 I am passionate about creating elegant and user-friendly interfaces, combining my design background with my technical skills. I am excited to collaborate on innovative projects and contribute to the success of web development initiatives.
 
 
-- ⚡  I’m currently working on [Invoicing Payment Reminder](https://github.com/slroberts/next-invoicing-payment-reminder-v2).
-- 🌐  Add me to your network: [Linkedin](https://www.linkedin.com/in/shomariroberts/)
-
-
-
 <!-- ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slroberts)](https://github.com/anuraghazra/github-readme-stats)
 
 **slroberts/slroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
