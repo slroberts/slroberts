@@ -1,26 +1,33 @@
-### My name is Shomari Roberts, a Front-end Engineer from New York City excited about developing functional websites and web applications with Javascript using React and Next.js.
+# Shomari Roberts — Front-End Engineer (React/Next.js) 🧑‍💻
+*Open to Junior Front-End roles · NYC / Remote*
 
-My journey into web development began as a UI designer, where I witnessed the transformation of my designs into functional websites. This sparked my interest and drove me to learn HTML, CSS, and JavaScript. I quickly realized my love for web development and further honed my skills by attending the Full-stack Web Development Bootcamp program at Bloom Institute of Technology (formerly Lambda School).
+[![Website](https://img.shields.io/badge/Website-shomariroberts.com-0A84FF)](https://shomariroberts.com)
+[![Email](https://img.shields.io/badge/Email-shomariroberts%40gmail.com-D14836)](mailto:shomariroberts@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shomariroberts-0A66C2)](https://www.linkedin.com/in/shomariroberts/)
+[![GitHub](https://img.shields.io/badge/GitHub-@slroberts-181717)](https://github.com/slroberts)
 
-During the Bootcamp, I embraced industry-standard coding practices, including Git workflow, and gained valuable experience building numerous projects with JavaScript, React, Redux, Node.js, Express, and SQL.
+**Code. Create. Ship.**  
+Design-minded engineer building fast, accessible apps with **React**, **Next.js**, and **TypeScript**.
 
-Since completing the Bootcamp, I have been actively expanding my front-end skills. I have added Next.js, Gatsby, and TypeScript to my toolkit, allowing me to deliver even more robust and performant web experiences.
+---
 
-I am passionate about creating elegant and user-friendly interfaces, combining my design background with my technical skills. I am excited to collaborate on innovative projects and contribute to the success of web development initiatives.
+## TL;DR 🎯
+- Build a11y-first, performance-minded UIs with clean components & thoughtful motion  
+- Comfortable with **React / Next.js / TypeScript / Tailwind**; test with **Jest + RTL/Cypress**  
+- Ship on **Vercel**, iterate quickly, keep DX(developer experience) tidy
 
+## Now building 🛠️
+**Homi — AI-powered Home Search**  
+*Stack:* `React` · `Next.js` · `TypeScript` · `Tailwind` · `Supabase` · `OpenAI`
 
-<!-- ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slroberts)](https://github.com/anuraghazra/github-readme-stats)
+## Skills at a glance 🧰
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-**slroberts/slroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects 🚀
+Curating a fresh set — see the live site’s Projects section:  
+https://www.shomariroberts.com/#projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📬
+- Email: **shomariroberts@gmail.com**  
+- Website: **https://shomariroberts.com**  
+- LinkedIn: **https://www.linkedin.com/in/shomariroberts/**
