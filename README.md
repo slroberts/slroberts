@@ -1,4 +1,4 @@
-# Shomari Roberts — Front-End Engineer (React/Next.js) 🧑‍💻
+Front-End Engineer · React / Next.js / TypeScript
 *Open to Junior Front-End roles · NYC / Remote*
 
 [![Website](https://img.shields.io/badge/Website-shomariroberts.com-0A84FF)](https://shomariroberts.com)
