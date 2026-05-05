@@ -1,33 +1,32 @@
-# Front-End Engineer · React / Next.js / TypeScript 🧑‍💻 
-*Open to Junior Front-End roles · NYC / Remote*
+# Shomari Roberts | Design Engineer 
 
-[![Website](https://img.shields.io/badge/Website-shomariroberts.com-0A84FF)](https://shomariroberts.com)
-[![Email](https://img.shields.io/badge/Email-shomariroberts%40gmail.com-D14836)](mailto:shomariroberts@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shomariroberts-0A66C2)](https://www.linkedin.com/in/shomariroberts/)
-[![GitHub](https://img.shields.io/badge/GitHub-@slroberts-181717)](https://github.com/slroberts)
+I bridge the gap between high-fidelity design and scalable software engineering. I am a professional **UI Designer** currently pursuing a **B.S. in Computer Science** to deepen my understanding of systems architecture and algorithmic logic.
 
-**Code. Create. Ship.**  
-Design-minded engineer building fast, accessible apps with **React**, **Next.js**, and **TypeScript**.
+My goal is to build digital products that are as technically sound as they are intuitive.
 
 ---
 
-## TL;DR 🎯
-- Build a11y-first, performance-minded UIs with clean components & thoughtful motion  
-- Comfortable with **React / Next.js / TypeScript / Tailwind**; test with **Jest + RTL/Cypress**  
-- Ship on **Vercel**, iterate quickly, keep DX(developer experience) tidy
+### 🛠️ Now Building
+**[Matchdule](https://github.com/slroberts/matchdule)** — A sports-scheduling engine designed to solve logistical conflicts for families.
+* **The Problem:** Automating data normalization from fragmented sports schedules to detect timeline gaps.
+* **The Stack:** Next.js, TypeScript, Python (Data Scraping), Supabase, Tailwind CSS.
 
-## Now building 🛠️
-**Homi — AI-powered Home Search**  
-*Stack:* `React` · `Next.js` · `TypeScript` · `Tailwind` · `Supabase` · `OpenAI`
+### 🧪 Current Focus
+* **Daily Practice:** Building consistency with Python through hands-on scripting and data exploration.
+* **Frontend:** Refining the use of TypeScript and accessible component patterns.
 
-## Skills at a glance 🧰
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+### 🎓 Academic Journey
+**B.S. in Computer Science** @ University of Phoenix (Started April 2026)
 
-## Projects 🚀
-Curating a fresh set — see the live site’s Projects section:  
-https://www.shomariroberts.com/#projects
+---
 
-## Contact 📬
-- Email: **shomariroberts@gmail.com**  
-- Website: **https://shomariroberts.com**  
-- LinkedIn: **https://www.linkedin.com/in/shomariroberts/**
+### 🧰 Tech Stack
+* **Engineering:** TypeScript, React, Next.js, Python, Supabase, Git.
+* **Design Systems:** Figma, WCAG Accessibility, Modular Component Architecture.
+
+---
+
+### 📫 Connect with me:
+[![Website](https://img.shields.io/badge/Website-shomariroberts.com-0A84FF)](https://shomariroberts.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@shomariroberts-0A66C2)](https://www.linkedin.com/in/shomariroberts/)
+[![Email](https://img.shields.io/badge/Email-shomariroberts@gmail.com-D14836)](mailto:shomariroberts@gmail.com)
