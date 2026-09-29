@@ -7,9 +7,12 @@ My goal is to build digital products that are as technically sound as they are i
 ---
 
 ### 🛠️ Now Building
-**[Matchdule](https://github.com/slroberts/matchdule)** — A sports-scheduling engine designed to solve logistical conflicts for families.
-* **The Problem:** Automating data normalization from fragmented sports schedules to detect timeline gaps.
-* **The Stack:** Next.js, TypeScript, Python (Data Scraping), Supabase, Tailwind CSS.
+
+**[Matchdule](https://github.com/slroberts/matchdule)** · [live app](https://matchdule.vercel.app) — a phone-first schedule for youth soccer parents.
+
+- **The problem:** Parents with kids on multiple teams piece schedules together from league sites built for admins — easy to miss a game, and impossible to tell when two games collide.
+- **What it does:** Highlights the next game, flags overlaps and tight turnarounds, and sums up each team's season at a glance.
+- **How it's built:** Designed in Figma first, with a token-based design system → Next.js, TypeScript, Tailwind, Supabase, and a Python data sync. Tested with Vitest and Storybook in CI.
 
 ### 🧪 Current Focus
 * **Daily Practice:** Building consistency with Python through hands-on scripting and data exploration.
