@@ -24,9 +24,9 @@ const myWorkflow = [
 
 - Designed Figma first: variables (Primitives, Color light/dark, Density) generate the CSS tokens, and component properties match React props one-to-one; no UI library
 - Built a Python + Playwright schedule sync on GitHub Actions that upserts and prunes games in Supabase
-- Wrote a TypeScript engine for overlaps, turnaround gaps, live status and season stats, plus .ics feeds
+- Wrote a TypeScript engine for overlaps, turnaround gaps, live status, and season stats, plus .ics feeds
 - Shipped an offline-capable PWA with server-rendered state and WCAG 2.1 AA: 44px targets, focus rings
-- Gated CI on 170+ Vitest tests run in New York and UTC zones, plus Storybook interaction and accessibility tests
+- Gated CI on 170+ Vitest tests run in New York and UTC, plus Storybook interaction and accessibility tests
 
 `Figma` `Next.js 16` `React 19` `TypeScript` `Tailwind CSS 4` `Framer Motion` `Supabase` `Python` `Playwright` `Storybook` `Vitest` `GitHub Actions`
 
