@@ -22,6 +22,8 @@ const myWorkflow = [
 
 > Your kid's soccer schedule, right from the sideline. Next game at a glance, conflicts and tight turnarounds flagged, every team's season in seconds, even when the signal drops.
 
+I built it for my family. I got tired of looking up the schedule or waiting for the coach to post it.
+
 - Designed Figma first: variables (Primitives, Color light/dark, Density) generate the CSS tokens, and component properties match React props one-to-one; no UI library
 - Built a Python + Playwright schedule sync on GitHub Actions that upserts and prunes games in Supabase
 - Wrote a TypeScript engine for overlaps, turnaround gaps, live status, and season stats, plus .ics feeds
@@ -48,7 +50,7 @@ const myWorkflow = [
 
 - **B.S. Computer Science** — University of Phoenix · in progress, expected 2029
 - **Full-Stack Web Development** — Bloom Institute of Technology · 2020 – 2021
-- **Associate's, Digital Media Arts — TCI College of Technology · 2012 – 2013 · Summa Cum Laude
+- **Associate's, Digital Media Arts** — TCI College of Technology · 2012 – 2013 · Summa Cum Laude
 
 ---
 
