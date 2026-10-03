@@ -48,6 +48,7 @@ const myWorkflow = [
 
 - **B.S. Computer Science** — University of Phoenix · in progress, expected 2029
 - **Full-Stack Web Development** — Bloom Institute of Technology · 2020 – 2021
+- **Associate's, Digital Media Arts — TCI College of Technology · 2012 – 2013 · Summa Cum Laude
 
 ---
 
